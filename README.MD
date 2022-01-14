@@ -1,5 +1,9 @@
 # Projeto Calculadora
 
+<p align="center">
+  <img width="460" height="300" src="assets/img/Captura de Tela 2022-01-13 às 21.03.24.png">
+</p>
+
 ## Description
 Uma calculadora usando HTML e CSS e JavaScript.
 
